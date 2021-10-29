@@ -54,3 +54,5 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
+//TODO: Add sound
+//TODO: Add text to the app
